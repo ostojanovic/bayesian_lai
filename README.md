@@ -22,7 +22,9 @@ The results shown in our publication can be produced by running the following sc
 
 The code is licensed under an MIT license.
 
-## Data sources ![CC BY-NC-ND license](by-nc-nd.png)
+## Data sources
+<img src="by-nc-nd.png" alt="CC BY-NC-ND" style="height: 25pt;"/>
+
 The data is included in the [data subfolder](/data).
 
 The dataset was collected by the [Working Group Remote Sensing and Digital Image Analysis, from the Institute of Computer Science at the University of Osnabrück, Germany][3].
