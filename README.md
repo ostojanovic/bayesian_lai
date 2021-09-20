@@ -22,7 +22,9 @@ The results shown in our publication can be produced by running the following sc
 
 The code is licensed under an MIT license.
 
-## Data sources ![CC BY-NC-ND license](cc-by-nc-nd.png)
+## Data sources ![CC BY-NC-ND license](by-nc-nd.png)
+The data is included in the [data subfolder](/data).
+
 The dataset was collected by the [Working Group Remote Sensing and Digital Image Analysis, from the Institute of Computer Science at the University of Osnabrück, Germany][3].
 It consist of measurements of reflectance spectra and accompanying leaf area index, collected on four different locations in Germany at different growth stages.
 The data is provided here under a creative commons [CC BY-NC-ND license][4] and original copyright resides with the [owners][3].
